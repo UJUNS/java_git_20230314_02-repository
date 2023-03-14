@@ -1,10 +1,7 @@
 package java_git_ex2;
 
-public class Example1 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+public class Example2 {
+	public void oop() {
 		for (int i = 2; i < 10; i++) {
 			System.out.println(i + "단");
 
@@ -13,7 +10,6 @@ public class Example1 {
 			}
 			System.out.println();
 		}
-
 	}
 
 }
